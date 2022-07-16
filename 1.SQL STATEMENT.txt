@@ -1,0 +1,6 @@
+select 
+re.name,b.title,ra.rating,ra.rating_date
+from ratings ra inner join 
+books b on ra.book_id=b.id inner join  
+reviewers re on ra.reviewer_id=re.id
+order by re.name asc ,b.title asc, rating desc
