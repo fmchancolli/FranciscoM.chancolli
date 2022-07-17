@@ -1,0 +1,6 @@
+IMPORTANTE:
+1.Ejecute el script(ScriptDatabase.sql) 
+2.Abrir una terminal y escribes (npm install) dentro de la ruta del proyecto para instalar las dependencias.
+3.Ejecuta el proyecto, escriba en la terminal (npm run start).
+4.Listo
+//el archivo(import-JS-DB.php) solo importa la base de datos 
